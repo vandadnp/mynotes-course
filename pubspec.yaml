@@ -44,6 +44,7 @@ dependencies:
   share_plus: ^3.0.4
   bloc: ^8.0.2
   flutter_bloc: ^8.0.1
+  equatable: ^2.0.3
 
 dev_dependencies:
   flutter_test:
