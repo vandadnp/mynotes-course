@@ -1,3 +1,4 @@
+lib/firebase_options.dart
 # Miscellaneous
 *.class
 *.log
@@ -8,7 +9,7 @@
 .buildlog/
 .history
 .svn/
-
+key.properties
 # IntelliJ related
 *.iml
 *.ipr
