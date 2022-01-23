@@ -1,0 +1,62 @@
+{
+
+    "logout_button": "Log out",
+    "note": "Note",
+    "cancel": "Cancel",
+    "yes": "Yes",
+    "delete": "Delete",
+    "sharing": "Sharing",
+    "ok": "OK",
+    "login": "Login",
+    "verify_email": "Verify email",
+    "register": "Register",
+    "restart": "Restart",
+
+    "start_typing_your_note": "Start typing your note",
+    "delete_note_prompt": "Are you sure you want to delete this note?",
+    "cannot_share_empty_note_prompt": "Cannot share an empty note!",
+    "generic_error_prompt": "An error occurred",
+    "logout_dialog_prompt": "Are you sure you want to log out?",
+
+    "password_reset": "Password reset",
+    "password_reset_dialog_prompt": "We have now sent you a password reset link. Please check your email for more information.",
+
+    "login_error_cannot_find_user": "Cannot find a user with the entered credentials!",
+    "login_error_wrong_credentials": "Wrong credentials",
+    "login_error_auth_error": "Authentication error",
+
+    "login_view_prompt": "Please log in to your account in order to interact with and create notes!",
+    
+    "login_view_forgot_password": "I forgot my password",
+    "login_view_not_registered_yet": "Not registered yet? Register here!",
+
+    "email_text_field_placeholder": "Enter your email here",
+    "password_text_field_placeholder": "Enter your password here",
+    
+    "forgot_password": "Forgot Password",
+    "forgot_password_view_generic_error": "We could not process your request. Please make sure that you are a registered user, or if not, register a user now by going back one step.",
+    "forgot_password_view_prompt": "If you forgot your password, simply enter your email and we will send you a password reset link.",
+    "forgot_password_view_send_me_link": "Send me password reset link",
+    "forgot_password_view_back_to_login": "Back to login page",
+
+    "register_error_weak_password": "This password is not secure enough. Please choose another password!",
+    "register_error_email_already_in_use": "This email is already registered to another user. Please choose another email!",
+    "register_error_generic": "Failed to register. Please try again later!",
+    "register_error_invalid_email": "The email address you entered appears to be invalid. Please try another email address!",
+    "register_view_prompt": "Enter your email and password to see your notes!",
+    "register_view_already_registered": "Already registered? Login here!",
+
+    "verify_email_view_prompt": "We've sent you an email verification. Please open it to verify your account. If you haven't received a verification email yet, press the button below!",
+    "verify_email_send_email_verification": "Send email verification",
+
+    "notes_title": "{count, plural, =0{No notes yet} =1{1 note} other{{count} notes}}",
+    "@notes_title": {
+        "placeholders": {
+            "count": {
+                "type": "int",
+                "example": "3 notes"
+            }
+        }
+    }
+
+}

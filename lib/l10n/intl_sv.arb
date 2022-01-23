@@ -1,0 +1,62 @@
+{
+
+    "logout_button": "Logga ut",
+    "note": "Antäckning",
+    "cancel": "Avbryt",
+    "yes": "Ja",
+    "delete": "Radera",
+    "sharing": "Delning",
+    "ok": "OK",
+    "login": "Logga in",
+    "verify_email": "Verifera",
+    "register": "Registrera",
+    "restart": "Börja om",
+
+    "start_typing_your_note": "Skriv din antäckning här",
+    "delete_note_prompt": "Are du säker på att du vill radera den här antäckningen?",
+    "cannot_share_empty_note_prompt": "Kan inte dela en tom antäckning!",
+    "generic_error_prompt": "Ett fel har inträffats",
+    "logout_dialog_prompt": "Är du säker på att du vill logga ut?",
+
+    "password_reset": "Nollställ ditt lösenord",
+    "password_reset_dialog_prompt": "Vi har nu skickat ett mejl till dig. Mejlet innehåller instruktioner på hur du kan nollställa ditt lösenord!",
+
+    "login_error_cannot_find_user": "Kunde inte hitta en användare med de angivna uppgifter!",
+    "login_error_wrong_credentials": "Fel inloggnings uppgifter!",
+    "login_error_auth_error": "Ett autentiseringsfel har inträffats!",
+
+    "login_view_prompt": "Logga in för att kunna se dina antäckningar!",
+    
+    "login_view_forgot_password": "Glömt lösenord?",
+    "login_view_not_registered_yet": "Har inte registrerar än? Tryck här!",
+
+    "email_text_field_placeholder": "Skriv ditt mejladdress här",
+    "password_text_field_placeholder": "Skriv ditt lösenord här",
+    
+    "forgot_password": "Glömt Lösenord",
+    "forgot_password_view_generic_error": "Vi kunde inte hantera din begäran. Var vänlig och skriv ditt inloggningsuppgifter och prova igen!",
+    "forgot_password_view_prompt": "Om du har glömt ditt lösenord, mata in ditt mejladdress så kan vi skicka ett mejl till dig där du kan nollställa ditt lösenord!",
+    "forgot_password_view_send_me_link": "Skicka mejlet",
+    "forgot_password_view_back_to_login": "Tillbaka till loginskärmen",
+
+    "register_error_weak_password": "Ditt valda lösenord är inte säkert nog. Var vänlig och välj ett annat lösenord!",
+    "register_error_email_already_in_use": "Mejladdresset som du angav är redan taget. Var vänlig och välj ett annat mejladdress!",
+    "register_error_generic": "Kunde tyvärr inte hantera din begäran. Var vänlig försök igen senare.",
+    "register_error_invalid_email": "Ditt valda mejladdress verkar inte vara giltigt. Var vänlig försök med ett annat mejladdress.",
+    "register_view_prompt": "Mata in ditt mejladdress och ditt lösenord för att se dina antäckningar!",
+    "register_view_already_registered": "Redan registrerat? Logga in här!",
+
+    "verify_email_view_prompt": "Vi har skickat ett mejl till ditt mejladdress. Du behöver trycka på länken i mejlet för att verifiera ditt mejladdress. Om du inte har redan fått mejlet efter en stund, tryck på knappen nedan för att skicka ett till mejl!",
+    "verify_email_send_email_verification": "Skicka verifieringsmejlet igen",
+
+    "notes_title": "{count, plural, =0{Inga antäckningar än} =1{1 antäckning} other{{count} antäckningar}}",
+    "@notes_title": {
+        "placeholders": {
+            "count": {
+                "type": "int",
+                "example": "3 antäckningar"
+            }
+        }
+    }
+
+}
